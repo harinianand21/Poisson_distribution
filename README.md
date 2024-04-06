@@ -75,11 +75,21 @@ else:
  
 
 # Output : 
-![Uploading 280664912-4d915f76-b588-451a-9f0e-9a98f675b4a8.jpg…]()
+![280664912-4d915f76-b588-451a-9f0e-9a98f675b4a8](https://github.com/harinianand21/Poisson_distribution/assets/145742813/dcbf19ee-a32b-4906-ba82-f3cce57c8709)
+
+# RESULT :
+The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test.
 
 
 
-# Results
 
-The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
- 
+
+
+
+
+
+
+
+
+
+
